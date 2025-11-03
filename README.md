@@ -204,6 +204,8 @@ video_capture.release()
 cv2.destroyAllWindows()
 
 ```
+### code explanation:
+   The code captures live video → recognizes faces → marks attendance → shows results in real time.
 ## Comparison table:
 | **Aspect**                   | **ChatGPT Output**                                                          | **Gemini Output**                                                                 | **Comparison Summary**                                                                 |
 | ---------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
